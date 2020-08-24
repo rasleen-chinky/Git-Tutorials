@@ -1,1 +1,2 @@
 This is version 1 of my software
+Editing for version 2
